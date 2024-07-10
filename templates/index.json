@@ -9,6 +9,54 @@
 */
 {
   "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Baby Food",
+            "heading_size": "h0"
+          }
+        },
+        "text_NGmUGm": {
+          "type": "text",
+          "settings": {
+            "text": "Discover the best baby food options for your little one. Made with quality ingredients to nourish and support their growth.",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get All Products",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_NGmUGm",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/brown-eyed-baby.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "slideshow_ynwUkM": {
       "type": "slideshow",
       "blocks": {
@@ -61,54 +109,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Baby Food",
-            "heading_size": "h0"
-          }
-        },
-        "text_NGmUGm": {
-          "type": "text",
-          "settings": {
-            "text": "Discover the best baby food options for your little one. Made with quality ingredients to nourish and support their growth.",
-            "text_style": "subtitle"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Get All Products",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text_NGmUGm",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/brown-eyed-baby.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "rich_text_TkV4EP": {
@@ -355,8 +355,8 @@
     }
   },
   "order": [
-    "slideshow_ynwUkM",
     "image_banner",
+    "slideshow_ynwUkM",
     "rich_text_TkV4EP",
     "featured_collection_DJMNQe",
     "featured_product_EHgMzR",
