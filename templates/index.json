@@ -1,1 +1,367 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Baby Food","heading_size":"h0"}},"text_NGmUGm":{"type":"text","settings":{"text":"Discover the best baby food options for your little one. Made with quality ingredients to nourish and support their growth.","text_style":"subtitle"}},"button":{"type":"buttons","settings":{"button_label_1":"Get All Products","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","text_NGmUGm","button"],"settings":{"image":"shopify:\/\/shop_images\/brown-eyed-baby.jpg","image_overlay_opacity":60,"image_height":"medium","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"rich_text_TkV4EP":{"type":"rich-text","blocks":{"heading_Bm7xtg":{"type":"heading","settings":{"heading":"Uday3.0 is a Ultimate House for Baby","heading_size":"h1"}},"text_WrK4ek":{"type":"text","settings":{"text":"<p>A one stop solution for all kinds of Baby products<\/p>"}},"button_t3DYN6":{"type":"button","settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_Bm7xtg","text_WrK4ek","button_t3DYN6"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-2","full_width":true,"padding_top":40,"padding_bottom":40}},"featured_collection_DJMNQe":{"type":"featured-collection","settings":{"title":"Featured collection","heading_size":"h1","description":"<p>The shoes for everyday<\/p>","show_description":true,"description_style":"body","collection":"hot-check-shoes","products_to_show":3,"columns_desktop":3,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-e83fe8c0-14ec-4f23-973e-6ad54d7d0745","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"featured_product_EHgMzR":{"type":"featured-product","blocks":{"text_EyEU4R":{"type":"text","settings":{"text":"{{ section.settings.product.vendor }}","text_style":"uppercase"}},"title_yUybPh":{"type":"title","settings":{"heading_size":"h1"}},"price_BxMnXb":{"type":"price","settings":{}},"variant_picker_yfgLQE":{"type":"variant_picker","settings":{"picker_type":"button","swatch_shape":"circle"}},"quantity_selector_UMBKHe":{"type":"quantity_selector","settings":{}},"buy_buttons_iwQXRH":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"share_NRpNfh":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["text_EyEU4R","title_yUybPh","price_BxMnXb","variant_picker_yfgLQE","quantity_selector_UMBKHe","buy_buttons_iwQXRH","share_NRpNfh"],"settings":{"product":"nike-best-choice","color_scheme":"scheme-2","secondary_background":true,"media_size":"small","constrain_to_viewport":false,"media_fit":"contain","media_position":"left","image_zoom":"lightbox","hide_variants":false,"enable_video_looping":false,"padding_top":40,"padding_bottom":40}},"image_banner_eUf8RA":{"type":"image-banner","blocks":{"heading_WBh7Qr":{"type":"heading","settings":{"heading":"Best Selling","heading_size":"h1"}},"text_XJRnxi":{"type":"text","settings":{"text":"Give customers details about the banner image(s) or content on the template.","text_style":"body"}},"buttons_wHE96q":{"type":"buttons","settings":{"button_label_1":"Show More","button_link_1":"","button_style_secondary_1":false,"button_label_2":"Latest Collection","button_link_2":"","button_style_secondary_2":true}}},"block_order":["heading_WBh7Qr","text_XJRnxi","buttons_wHE96q"],"custom_css":[],"settings":{"image":"shopify:\/\/shop_images\/baby-nursery-supplies.jpg","image_overlay_opacity":70,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"contact_form_7KCGpY":{"type":"contact-form","settings":{"heading":"Contact form","heading_size":"h1","color_scheme":"","padding_top":36,"padding_bottom":36}},"collection_list_EqEc4U":{"type":"collection-list","blocks":{"featured_collection_DrNBJX":{"type":"featured_collection","settings":{"collection":"hot-check-shoes"}},"featured_collection_n9GNVi":{"type":"featured_collection","settings":{"collection":""}},"featured_collection_RYCVRK":{"type":"featured_collection","settings":{"collection":""}}},"block_order":["featured_collection_DrNBJX","featured_collection_n9GNVi","featured_collection_RYCVRK"],"settings":{"title":"Collections","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["image_banner","rich_text_TkV4EP","featured_collection_DJMNQe","featured_product_EHgMzR","image_banner_eUf8RA","contact_form_7KCGpY","collection_list_EqEc4U"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_ynwUkM": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JLrXNq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/baby-reaches-for-her-sister.jpg",
+            "heading": "Baby Products",
+            "heading_size": "hxl",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "More Products",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_rAtqwL": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_JLrXNq",
+        "slide_rAtqwL"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Baby Food",
+            "heading_size": "h0"
+          }
+        },
+        "text_NGmUGm": {
+          "type": "text",
+          "settings": {
+            "text": "Discover the best baby food options for your little one. Made with quality ingredients to nourish and support their growth.",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get All Products",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_NGmUGm",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/brown-eyed-baby.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_TkV4EP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Bm7xtg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uday3.0 is a Ultimate House for Baby",
+            "heading_size": "h1"
+          }
+        },
+        "text_WrK4ek": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A one stop solution for all kinds of Baby products<\/p>"
+          }
+        },
+        "button_t3DYN6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Bm7xtg",
+        "text_WrK4ek",
+        "button_t3DYN6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "featured_collection_DJMNQe": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "<p>The shoes for everyday<\/p>",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "hot-check-shoes",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-e83fe8c0-14ec-4f23-973e-6ad54d7d0745",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_EHgMzR": {
+      "type": "featured-product",
+      "blocks": {
+        "text_EyEU4R": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_yUybPh": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_BxMnXb": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_yfgLQE": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_UMBKHe": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_iwQXRH": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_NRpNfh": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_EyEU4R",
+        "title_yUybPh",
+        "price_BxMnXb",
+        "variant_picker_yfgLQE",
+        "quantity_selector_UMBKHe",
+        "buy_buttons_iwQXRH",
+        "share_NRpNfh"
+      ],
+      "settings": {
+        "product": "nike-best-choice",
+        "color_scheme": "scheme-2",
+        "secondary_background": true,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_banner_eUf8RA": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_WBh7Qr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Selling",
+            "heading_size": "h1"
+          }
+        },
+        "text_XJRnxi": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_wHE96q": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Show More",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Latest Collection",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_WBh7Qr",
+        "text_XJRnxi",
+        "buttons_wHE96q"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/baby-nursery-supplies.jpg",
+        "image_overlay_opacity": 70,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "contact_form_7KCGpY": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_EqEc4U": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_DrNBJX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hot-check-shoes"
+          }
+        },
+        "featured_collection_n9GNVi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_RYCVRK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_DrNBJX",
+        "featured_collection_n9GNVi",
+        "featured_collection_RYCVRK"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_ynwUkM",
+    "image_banner",
+    "rich_text_TkV4EP",
+    "featured_collection_DJMNQe",
+    "featured_product_EHgMzR",
+    "image_banner_eUf8RA",
+    "contact_form_7KCGpY",
+    "collection_list_EqEc4U"
+  ]
+}
